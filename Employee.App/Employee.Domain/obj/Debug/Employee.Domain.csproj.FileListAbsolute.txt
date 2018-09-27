@@ -1,0 +1,12 @@
+C:\Assignment\Employee.App\Employee.Domain\obj\Debug\Employee.Domain.csprojResolveAssemblyReference.cache
+C:\Assignment\Employee.App\Employee.Domain\bin\Debug\Employee.Domain.dll.config
+C:\Assignment\Employee.App\Employee.Domain\bin\Debug\Employee.Domain.dll
+C:\Assignment\Employee.App\Employee.Domain\bin\Debug\Employee.Domain.pdb
+C:\Assignment\Employee.App\Employee.Domain\bin\Debug\EntityFramework.dll
+C:\Assignment\Employee.App\Employee.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Assignment\Employee.App\Employee.Domain\bin\Debug\EntityFramework.xml
+C:\Assignment\Employee.App\Employee.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Assignment\Employee.App\Employee.Domain\obj\Debug\Employee.Domain.dll
+C:\Assignment\Employee.App\Employee.Domain\obj\Debug\Employee.Domain.pdb
+C:\Assignment\Employee.App\Employee.Domain\obj\Debug\Employee.Domain.Migrations.initialsing.resources
+C:\Assignment\Employee.App\Employee.Domain\obj\Debug\Employee.Domain.csproj.GenerateResource.Cache
